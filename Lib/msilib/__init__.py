@@ -288,16 +288,16 @@ class Directory:
         parts = file.split(".")
         if len(parts)>1:
             suffix = parts[-1].upper()
+            prefix = "".join(parts[:-1]).upper()
         else:
             suffix = None
-        prefix = parts[0].upper()
-        if len(prefix) <= 8 and (not suffix or len(suffix)<=3):
+        file = None
+        if len(parts)<3 and len(prefix)<=8 and (not suffix or len(suffix)<=3):
             if suffix:
                 file = prefix+"."+suffix
             else:
                 file = prefix
-            assert file not in self.short_names
-        else:
+        if file is None or file in self.short_names:
             prefix = prefix[:6]
             if suffix:
                 suffix = suffix[:3]
