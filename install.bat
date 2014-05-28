@@ -1,0 +1,1 @@
+PCbuild\python.exe install_python.py
