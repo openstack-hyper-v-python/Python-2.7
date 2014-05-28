@@ -1,2 +1,2 @@
 rmdir /s /q C:\Python27
-cmd /k "%~dp0\PCbuild\python.exe install_python.py"
+%~dps0\PCbuild\python.exe %~dps0\install_python.py
