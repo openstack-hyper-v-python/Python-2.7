@@ -19,7 +19,6 @@ from os.path import abspath
 
 EXTERNALS_DIR = dirname(abspath(__file__))
 PYTHON_DIR = "."
-print EXTERNALS_DIR
 TCLTK_DIR = EXTERNALS_DIR+"\..\\tcltk"
 
 DST_DIR = r"C:\Python27"
