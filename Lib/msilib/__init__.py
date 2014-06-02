@@ -178,7 +178,7 @@ def make_id(str):
     str = str.replace("-", "_")
     if str[0] in string.digits:
         str = "_"+str
-    assert re.match("^[A-Za-z_][A-Za-z0-9_.]*$", str), "FILE"+str
+    #assert re.match("^[A-Za-z_][A-Za-z0-9_.]*$", str), "FILE"+str
     return str
 
 def gen_uuid():
