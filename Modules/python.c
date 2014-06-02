@@ -2,6 +2,9 @@
 
 #include "Python.h"
 
+/* required for openssl 0.98+ and MSVC */
+#include <openssl/applink.c>
+
 #ifdef __FreeBSD__
 #include <floatingpoint.h>
 #endif
