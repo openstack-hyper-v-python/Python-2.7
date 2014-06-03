@@ -42,7 +42,7 @@
 			/>
 			<Tool
 				Name="VCCLCompilerTool"
-				AdditionalIncludeDirectories=""
+				AdditionalIncludeDirectories="C:\pkg\include"
 				PreprocessorDefinitions="_CONSOLE"
 				StringPooling="true"
 				RuntimeLibrary="2"
