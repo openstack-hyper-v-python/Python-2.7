@@ -31,6 +31,8 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
+				CommandLine="call &quot;$(TargetDir)\createlib.bat&quot;"
+				Outputs="$(TargetDir)\libpython27.a"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"

@@ -561,6 +561,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_0895C02B2CEA4078B1CFADE257679992"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_08DD33A544E24E50BC2C0D3E860562B0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -825,6 +831,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_0C9CB2AE45964C8B9F506CB76EC0478B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_0CA39D2963264068A032A3607A4210A4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1053,6 +1065,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_106B54A8853C4D2D87BB31A6F14342A8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_10D30171DDA142DCAB15816052A1A361"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1257,13 +1275,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_14654DB2B6704EA7801DA6E01169BCE3"
+        "MsmKey" = "8:_14513E33D91844F39F47DB44F08F1EAD"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_147E30672F174026A7D4E5522776BFAA"
+        "MsmKey" = "8:_14654DB2B6704EA7801DA6E01169BCE3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1516,12 +1534,6 @@
         "Entry"
         {
         "MsmKey" = "8:_17C55755F03747D1B961F06425360AC5"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_17CB661DD0C640399331F0ABA5AD2B99"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -2193,12 +2205,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_20B104193DA9752607C62382B5BADEF3"
-        "OwnerKey" = "8:_F10E915E1E5B497C80FEE8B9A7E7BA13"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_20B9B16278E646E5B96611739C63DCF0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -2439,6 +2445,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_250452CBC0E148EC9741B87EDF1438A9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_250FACD58D7B4307B43432817D2B0704"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -2589,12 +2601,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_27D0220F83D14EE7B04F5622B9BDC71A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_27D1A35916BB478CB78C41FB2FED5182"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -2691,12 +2697,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_2986027F7D1B24E18D2DF17035E617B2"
-        "OwnerKey" = "8:_8B08232CF8B44CCC816BC91E9F61BB43"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_299FD4CE609D4C41BD68B235AF89BC88"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -2782,6 +2782,12 @@
         "Entry"
         {
         "MsmKey" = "8:_2B0AEBED18EF41DD83D03E8FE3D1321E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2B39E0EB89EC469FA1D84AAC17806937"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -2896,6 +2902,12 @@
         "Entry"
         {
         "MsmKey" = "8:_2CD4ED8E89774B5CBC23348D2103E027"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2CDFDFCDF7964C2A83C2735A27CC70E8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -3777,12 +3789,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3813F49870ED49779A1DEBCCF31B4C8C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_38335B0A8957421EA0F686F3A918CE7D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -3832,6 +3838,12 @@
         "Entry"
         {
         "MsmKey" = "8:_38848F50C2EB4FE486F6565B78483993"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_389B00417E764BE990D9C2632E6F8B28"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -3963,6 +3975,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_3A1CBA1C74074CA48D2F14EEB283E8E6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3A30A8AB77C74586AC6F6B1F7EAC7D7D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -4053,6 +4071,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_3B8AD33A80F443388F9385A79D115C7B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3B96C827C22D4A3495286BB4CB1A5B86"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -4066,12 +4090,6 @@
         "Entry"
         {
         "MsmKey" = "8:_3BB11211D96846808B1BEBDCA9931DC4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3BB8A7B6D2E840E4834108EE2A756B14"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -4288,12 +4306,6 @@
         "Entry"
         {
         "MsmKey" = "8:_3E6409D27A13497391568BB12960639E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3E68AA1D22CA4D33A7DAC61CEDFC2DC6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -4690,6 +4702,12 @@
         "Entry"
         {
         "MsmKey" = "8:_443B6964E052486B9B6A4F16D3CE06B0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_446CE9A9E5994245AADCA12689A477FF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -5673,12 +5691,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5303E762982939CF42870D13BC51D6A6"
-        "OwnerKey" = "8:_6D9B032BB42E416E907F7A4071FC18E7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5310FB5FA0824460AF9DEE95680409FB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -6303,6 +6315,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_5C02EEFFA4174DC78BC61BC233C8229A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_5C318482CBC5475690DDFB652844017E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -6442,6 +6460,12 @@
         "Entry"
         {
         "MsmKey" = "8:_5DF6E3C77CB9498590224A3DB065239D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5E01239CFEB44640A1E58C22C190E87E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -6591,6 +6615,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_60B48DC575B64216AA843C3019F66471"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_60C1DF458197497A9B7348960CE65B6C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -6718,12 +6748,6 @@
         "Entry"
         {
         "MsmKey" = "8:_62674841230D4BF9BF44426219D54F77"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_62A9B66FE696406AB43F3BA120EF6C51"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -6921,12 +6945,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_65496610CEEF40C69AD63A1FC3055627"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_6558765CA8474963B937FE4A91442033"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -7077,12 +7095,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_679ED57C9AC4C5BBB7262612B53CAD57"
-        "OwnerKey" = "8:_6D9B032BB42E416E907F7A4071FC18E7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_67A2EC5663FC4CCFB46EE2E24A0DCF78"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -7133,12 +7145,6 @@
         {
         "MsmKey" = "8:_6800448378974EC78B340A51F21806BC"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6806D6B0C67CF1E4EE4A47860F035AC9"
-        "OwnerKey" = "8:_62A9B66FE696406AB43F3BA120EF6C51"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -7407,12 +7413,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6B89B2DCF184494A9606B25C9A63EC93"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_6BC99CFC8DAB4FCE934EBAD3D15EC073"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -7588,12 +7588,6 @@
         "Entry"
         {
         "MsmKey" = "8:_6D94DE38D8EE4C4185EFFCB9B103D5F0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6D9B032BB42E416E907F7A4071FC18E7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -8127,6 +8121,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_75FE8A51BB6B40AFA97EC947EAEC3597"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_76131B479B72435E881A1CD58E9AC0B2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -8511,12 +8511,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_7AE8B5B2BD8D45CB9C1CB893FD1012F7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_7AFE87FE783840598ED3493F9A5900C6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -8573,12 +8567,6 @@
         {
         "MsmKey" = "8:_7B398BDA1C3A4E20ACAB417F9C693E2B"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7B71CB24B8EF4A19B162F896B34C745C"
-        "OwnerKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -9291,120 +9279,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_147E30672F174026A7D4E5522776BFAA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_F10E915E1E5B497C80FEE8B9A7E7BA13"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_E0EBB3D1557546F88099E712703AC2E6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_D9A4B93552DB41839BF76966067CBD04"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_D92B7A89ED3D493E90119D5EA8539992"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_C74603B0541648EAB9DCCD336A8096D6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_BF6A0C3645B84E82A52B3E1C6DD3DF9B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_A157611844C3484298839B2121F07AF2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_93EB5F19FC7D4734B7CD99738DAE76F2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_8B08232CF8B44CCC816BC91E9F61BB43"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_7AE8B5B2BD8D45CB9C1CB893FD1012F7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_6D9B032BB42E416E907F7A4071FC18E7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_6B89B2DCF184494A9606B25C9A63EC93"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_65496610CEEF40C69AD63A1FC3055627"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_62A9B66FE696406AB43F3BA120EF6C51"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_3E68AA1D22CA4D33A7DAC61CEDFC2DC6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_3BB8A7B6D2E840E4834108EE2A756B14"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_3813F49870ED49779A1DEBCCF31B4C8C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_850DBB51C3B342C7B0C8A97FE4FF415C"
-        "OwnerKey" = "8:_17CB661DD0C640399331F0ABA5AD2B99"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_852C194C0ED0419183D14AA51A4AB3B1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -9873,7 +9747,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8B08232CF8B44CCC816BC91E9F61BB43"
+        "MsmKey" = "8:_8AFE8FA53B19478CB44D272CEBF3BEB4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -9964,6 +9838,12 @@
         "Entry"
         {
         "MsmKey" = "8:_8C1F440E4A37498CA9FFAA85D4F8D5C8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8C28CCF016104A3D9C5DB768D2B2FE70"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -10545,12 +10425,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_93EB5F19FC7D4734B7CD99738DAE76F2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_93ED477B2C2F4B3C989873E4AD7F3F6E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -10833,6 +10707,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_97C8C8E36CBE45F581FDF26DA594E99E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_97E8F9EE43444789986B4E360D88A4A0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -10954,6 +10834,12 @@
         "Entry"
         {
         "MsmKey" = "8:_997E56812BF1450DAA0C5CBCCBB7D0A9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9989D9C7E3134148AAED78946EB0F4F5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -11307,6 +11193,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_9EE489E7D33449BD95371539C4815740"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9F0E4841474C4BF189876EEE3A305048"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -11517,12 +11409,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A157611844C3484298839B2121F07AF2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_A158EF177DC342B5B390B6CBE2AC5E33"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -11608,6 +11494,12 @@
         "Entry"
         {
         "MsmKey" = "8:_A38754B7E184467E886D1176A5F01832"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A38E893A7FE64AD19911C3A055F42603"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -12328,6 +12220,12 @@
         "Entry"
         {
         "MsmKey" = "8:_AE65400E1C2F47528DE405695B94D21F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AE6F14ADFF5E4193BA4541695D490301"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -13341,12 +13239,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BF6A0C3645B84E82A52B3E1C6DD3DF9B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_BF83B175B56A454EA80E69E189FD2EE1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -13833,12 +13725,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C69BE2A1A1189C50C33E053F1D13F94D"
-        "OwnerKey" = "8:_62A9B66FE696406AB43F3BA120EF6C51"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_C69D5D22F857461D876DCDC5D97BA048"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -13864,12 +13750,6 @@
         "Entry"
         {
         "MsmKey" = "8:_C72B95B2C2374621868C0173659AE47A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C74603B0541648EAB9DCCD336A8096D6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -14075,120 +13955,6 @@
         {
         "MsmKey" = "8:_CA13B5AD64D4443F8281C2182BC239DA"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_147E30672F174026A7D4E5522776BFAA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_F10E915E1E5B497C80FEE8B9A7E7BA13"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_E0EBB3D1557546F88099E712703AC2E6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_D9A4B93552DB41839BF76966067CBD04"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_D92B7A89ED3D493E90119D5EA8539992"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_C74603B0541648EAB9DCCD336A8096D6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_BF6A0C3645B84E82A52B3E1C6DD3DF9B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_A157611844C3484298839B2121F07AF2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_93EB5F19FC7D4734B7CD99738DAE76F2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_8B08232CF8B44CCC816BC91E9F61BB43"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_7AE8B5B2BD8D45CB9C1CB893FD1012F7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_6D9B032BB42E416E907F7A4071FC18E7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_6B89B2DCF184494A9606B25C9A63EC93"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_65496610CEEF40C69AD63A1FC3055627"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_62A9B66FE696406AB43F3BA120EF6C51"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_3E68AA1D22CA4D33A7DAC61CEDFC2DC6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_3BB8A7B6D2E840E4834108EE2A756B14"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_3813F49870ED49779A1DEBCCF31B4C8C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA167C205B39C67F73D912F2ACB46FAD"
-        "OwnerKey" = "8:_17CB661DD0C640399331F0ABA5AD2B99"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -15171,12 +14937,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D92B7A89ED3D493E90119D5EA8539992"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_D9655AB8D0CF4B6CB6A3DBC1FF53D779"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -15196,12 +14956,6 @@
         "Entry"
         {
         "MsmKey" = "8:_D9A388CA88414E5F9E94A06C41176F5A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D9A4B93552DB41839BF76966067CBD04"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -15364,6 +15118,12 @@
         "Entry"
         {
         "MsmKey" = "8:_DBC1EA92C1584531A560FA4AEB223B52"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DBE9D01AF813434EB3D53899DF74973C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -15724,12 +15484,6 @@
         "Entry"
         {
         "MsmKey" = "8:_E0E6EF4165FE413F8648F3E45B516B57"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E0EBB3D1557546F88099E712703AC2E6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -16930,12 +16684,6 @@
         "Entry"
         {
         "MsmKey" = "8:_F0E6C6193DC84F5EA3BE3BBECDDD97DF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F10E915E1E5B497C80FEE8B9A7E7BA13"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -19972,6 +19720,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0895C02B2CEA4078B1CFADE257679992"
+            {
+            "SourcePath" = "8:..\\PCbuild\\select.pyd"
+            "TargetName" = "8:select.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_08DD33A544E24E50BC2C0D3E860562B0"
             {
             "SourcePath" = "8:..\\..\\tcltk\\lib\\tcl8.5\\tzdata\\Etc\\GMT-12"
@@ -20852,6 +20620,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C9CB2AE45964C8B9F506CB76EC0478B"
+            {
+            "SourcePath" = "8:..\\..\\tcltk\\bin\\tclpip85.dll"
+            "TargetName" = "8:tclpip85.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0CA39D2963264068A032A3607A4210A4"
             {
             "SourcePath" = "8:..\\..\\tcltk\\lib\\tcl8.5\\tzdata\\Europe\\Sofia"
@@ -21612,6 +21400,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_106B54A8853C4D2D87BB31A6F14342A8"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_msi.pyd"
+            "TargetName" = "8:_msi.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_10D30171DDA142DCAB15816052A1A361"
             {
             "SourcePath" = "8:..\\Lib\\test\\crashers\\loosing_mro_ref.py"
@@ -22278,6 +22086,26 @@
             "TargetName" = "8:Melbourne"
             "Tag" = "8:"
             "Folder" = "8:_566BA4CBECF544AEA98182F42A149E6F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_14513E33D91844F39F47DB44F08F1EAD"
+            {
+            "SourcePath" = "8:..\\PCbuild\\unicodedata.pyd"
+            "TargetName" = "8:unicodedata.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -25372,26 +25200,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_20B104193DA9752607C62382B5BADEF3"
-            {
-            "SourcePath" = "8:sqlite3.dll"
-            "TargetName" = "8:sqlite3.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_20B9B16278E646E5B96611739C63DCF0"
             {
             "SourcePath" = "8:..\\Lib\\ctypes\\test\\test_random_things.py"
@@ -26192,6 +26000,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_250452CBC0E148EC9741B87EDF1438A9"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_ssl.pyd"
+            "TargetName" = "8:_ssl.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_250FACD58D7B4307B43432817D2B0704"
             {
             "SourcePath" = "8:..\\Lib\\fileinput.py"
@@ -26692,26 +26520,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_27D0220F83D14EE7B04F5622B9BDC71A"
-            {
-            "SourcePath" = "8:..\\createlib.bat"
-            "TargetName" = "8:createlib.bat"
-            "Tag" = "8:"
-            "Folder" = "8:_7A61350BD5E5490F9F49731255EAA148"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_27D1A35916BB478CB78C41FB2FED5182"
             {
             "SourcePath" = "8:..\\Lib\\logging\\__init__.py"
@@ -27032,26 +26840,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2986027F7D1B24E18D2DF17035E617B2"
-            {
-            "SourcePath" = "8:WSOCK32.dll"
-            "TargetName" = "8:WSOCK32.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_299FD4CE609D4C41BD68B235AF89BC88"
             {
             "SourcePath" = "8:..\\Lib\\plat-mac\\Carbon\\Scrap.py"
@@ -27338,6 +27126,26 @@
             "TargetName" = "8:svn_python_org_https_cert.pem"
             "Tag" = "8:"
             "Folder" = "8:_F4D7B12C2D824C8598D1286F8C6147FC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2B39E0EB89EC469FA1D84AAC17806937"
+            {
+            "SourcePath" = "8:..\\PCbuild\\bz2.pyd"
+            "TargetName" = "8:bz2.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -27718,6 +27526,26 @@
             "TargetName" = "8:test_socketserver.py"
             "Tag" = "8:"
             "Folder" = "8:_F4D7B12C2D824C8598D1286F8C6147FC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2CDFDFCDF7964C2A83C2735A27CC70E8"
+            {
+            "SourcePath" = "8:..\\PCbuild\\winsound.pyd"
+            "TargetName" = "8:winsound.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -30832,6 +30660,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_389B00417E764BE990D9C2632E6F8B28"
+            {
+            "SourcePath" = "8:..\\..\\tcltk\\bin\\tcl85.dll"
+            "TargetName" = "8:tcl85.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_38B9881ADC334E2EADEFB9722134E3D4"
             {
             "SourcePath" = "8:..\\Lib\\lib-tk\\Tix.py"
@@ -31252,6 +31100,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3A1CBA1C74074CA48D2F14EEB283E8E6"
+            {
+            "SourcePath" = "8:..\\PCbuild\\pythonw.exe"
+            "TargetName" = "8:pythonw.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_7A61350BD5E5490F9F49731255EAA148"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3A30A8AB77C74586AC6F6B1F7EAC7D7D"
             {
             "SourcePath" = "8:..\\Lib\\email\\test\\test_email_torture.py"
@@ -31538,6 +31406,26 @@
             "TargetName" = "8:Amsterdam"
             "Tag" = "8:"
             "Folder" = "8:_CFE25E763ED346A8B8C59EF8C5172212"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B8AD33A80F443388F9385A79D115C7B"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_tkinter.pyd"
+            "TargetName" = "8:_tkinter.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -33638,6 +33526,26 @@
             "TargetName" = "8:ddNextPlus.decTest"
             "Tag" = "8:"
             "Folder" = "8:_C2931897D60E49F7B74C7DACD54429A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_446CE9A9E5994245AADCA12689A477FF"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_socket.pyd"
+            "TargetName" = "8:_socket.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -36912,26 +36820,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5303E762982939CF42870D13BC51D6A6"
-            {
-            "SourcePath" = "8:msi.dll"
-            "TargetName" = "8:msi.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5310FB5FA0824460AF9DEE95680409FB"
             {
             "SourcePath" = "8:..\\Lib\\idlelib\\idle.pyw"
@@ -39012,6 +38900,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C02EEFFA4174DC78BC61BC233C8229A"
+            {
+            "SourcePath" = "8:..\\..\\tcltk\\bin\\tk85.dll"
+            "TargetName" = "8:tk85.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C318482CBC5475690DDFB652844017E"
             {
             "SourcePath" = "8:..\\Lib\\idlelib\\CallTips.py"
@@ -39492,6 +39400,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5E01239CFEB44640A1E58C22C190E87E"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_hashlib.pyd"
+            "TargetName" = "8:_hashlib.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5E1A33635B9E43B5BBBFB65C36706B26"
             {
             "SourcePath" = "8:..\\Lib\\test\\test_binhex.py"
@@ -39958,6 +39886,26 @@
             "TargetName" = "8:Porto_Velho"
             "Tag" = "8:"
             "Folder" = "8:_8DA1A0B7C4F7447A83299C5FD65F97A4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_60B48DC575B64216AA843C3019F66471"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_ctypes.pyd"
+            "TargetName" = "8:_ctypes.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -41552,26 +41500,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_679ED57C9AC4C5BBB7262612B53CAD57"
-            {
-            "SourcePath" = "8:RPCRT4.dll"
-            "TargetName" = "8:RPCRT4.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_67A2EC5663FC4CCFB46EE2E24A0DCF78"
             {
             "SourcePath" = "8:..\\Lib\\uuid.py"
@@ -41750,26 +41678,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6806D6B0C67CF1E4EE4A47860F035AC9"
-            {
-            "SourcePath" = "8:tk85.dll"
-            "TargetName" = "8:tk85.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_680AA2E91D77451B82E40AFD56937867"
@@ -44998,6 +44906,26 @@
             "TargetName" = "8:test_text.py"
             "Tag" = "8:"
             "Folder" = "8:_295966DE9DA44062952E51013A7801A5"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_75FE8A51BB6B40AFA97EC947EAEC3597"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_sqlite3.pyd"
+            "TargetName" = "8:_sqlite3.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -50412,6 +50340,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8AFE8FA53B19478CB44D272CEBF3BEB4"
+            {
+            "SourcePath" = "8:..\\PCbuild\\pyexpat.pyd"
+            "TargetName" = "8:pyexpat.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8B21861AB5094D07A5993C7B6F71E0B2"
             {
             "SourcePath" = "8:..\\..\\tcltk\\lib\\tcl8.5\\tzdata\\GMT0"
@@ -50698,6 +50646,26 @@
             "TargetName" = "8:wave.py"
             "Tag" = "8:"
             "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8C28CCF016104A3D9C5DB768D2B2FE70"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_ctypes_test.pyd"
+            "TargetName" = "8:_ctypes_test.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -53572,6 +53540,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_97C8C8E36CBE45F581FDF26DA594E99E"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_elementtree.pyd"
+            "TargetName" = "8:_elementtree.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_97E8F9EE43444789986B4E360D88A4A0"
             {
             "SourcePath" = "8:..\\Lib\\plat-mac\\lib-scriptpackages\\Explorer\\Microsoft_Internet_Explorer.py"
@@ -53978,6 +53966,26 @@
             "TargetName" = "8:IN.py"
             "Tag" = "8:"
             "Folder" = "8:_0D119D0438C8484CA4A95CC0106510EA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9989D9C7E3134148AAED78946EB0F4F5"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_multiprocessing.pyd"
+            "TargetName" = "8:_multiprocessing.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -55152,6 +55160,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9EE489E7D33449BD95371539C4815740"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_testcapi.pyd"
+            "TargetName" = "8:_testcapi.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9F0E4841474C4BF189876EEE3A305048"
             {
             "SourcePath" = "8:..\\..\\tcltk\\lib\\tk8.5\\demos\\ixset"
@@ -56138,6 +56166,26 @@
             "TargetName" = "8:cp862.enc"
             "Tag" = "8:"
             "Folder" = "8:_DF948212046E4DBBB2468748E6964596"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A38E893A7FE64AD19911C3A055F42603"
+            {
+            "SourcePath" = "8:..\\PCbuild\\libpython27.a"
+            "TargetName" = "8:libpython27.a"
+            "Tag" = "8:"
+            "Folder" = "8:_E2DAA036EA2E4585ABB06AA0AFEC2306"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -58538,6 +58586,26 @@
             "TargetName" = "8:Riga"
             "Tag" = "8:"
             "Folder" = "8:_CFE25E763ED346A8B8C59EF8C5172212"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AE6F14ADFF5E4193BA4541695D490301"
+            {
+            "SourcePath" = "8:..\\PCbuild\\_bsddb.pyd"
+            "TargetName" = "8:_bsddb.pyd"
+            "Tag" = "8:"
+            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -63532,26 +63600,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C69BE2A1A1189C50C33E053F1D13F94D"
-            {
-            "SourcePath" = "8:tcl85.dll"
-            "TargetName" = "8:tcl85.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C69D5D22F857461D876DCDC5D97BA048"
             {
             "SourcePath" = "8:..\\..\\tcltk\\lib\\tcl8.5\\tzdata\\Etc\\GMT+8"
@@ -64330,26 +64378,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CA167C205B39C67F73D912F2ACB46FAD"
-            {
-            "SourcePath" = "8:python27.dll"
-            "TargetName" = "8:python27.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CA444DE842474B5DA8572F68331DA702"
@@ -68218,6 +68246,26 @@
             "TargetName" = "8:La_Rioja"
             "Tag" = "8:"
             "Folder" = "8:_404918A9A134410FAEC50EE1C3146B48"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DBE9D01AF813434EB3D53899DF74973C"
+            {
+            "SourcePath" = "8:..\\PCbuild\\python.exe"
+            "TargetName" = "8:python.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_7A61350BD5E5490F9F49731255EAA148"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -78672,12 +78720,12 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Python 2.7"
         "ProductCode" = "8:{2404FC27-31FD-4910-A321-30CEF4F29A3E}"
-        "PackageCode" = "8:{C5879D64-D5E0-414F-97DB-C1E47E84F678}"
+        "PackageCode" = "8:{BBB6245B-0A9A-4639-A628-C042F4A47E1C}"
         "UpgradeCode" = "8:{FA081D75-9AE8-426F-B5E9-AA531F3644B8}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:FALSE"
-        "InstallAllUsers" = "11:FALSE"
+        "InstallAllUsers" = "11:TRUE"
         "ProductVersion" = "8:1.0.0"
         "Manufacturer" = "8:Microsoft Openstack CI Lab Team"
         "ARPHELPTELEPHONE" = "8:"
@@ -79187,569 +79235,9 @@
         }
         "MergeModule"
         {
-            "{CEE29DC0-9FBA-4B99-8D47-5BC643D9B626}:_7B71CB24B8EF4A19B162F896B34C745C"
-            {
-            "UseDynamicProperties" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
-            "SourcePath" = "8:microsoft_vc90_crt_x86.msm"
-                "Properties"
-                {
-                }
-            "LanguageId" = "3:0"
-            "Exclude" = "11:FALSE"
-            "Folder" = "8:"
-            "Feature" = "8:"
-            "IsolateTo" = "8:"
-            }
-            "{CEE29DC0-9FBA-4B99-8D47-5BC643D9B626}:_850DBB51C3B342C7B0C8A97FE4FF415C"
-            {
-            "UseDynamicProperties" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
-            "SourcePath" = "8:policy_9_0_Microsoft_VC90_CRT_x86.msm"
-                "Properties"
-                {
-                }
-            "LanguageId" = "3:0"
-            "Exclude" = "11:FALSE"
-            "Folder" = "8:"
-            "Feature" = "8:"
-            "IsolateTo" = "8:"
-            }
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_147E30672F174026A7D4E5522776BFAA"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_elementtree.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{17E1E049-C309-4D79-843F-AE483C264AEA}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_17CB661DD0C640399331F0ABA5AD2B99"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_socket.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{86937F53-C189-40EF-8CE8-8759D8E7D480}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3813F49870ED49779A1DEBCCF31B4C8C"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_ctypes.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{0E9791DB-593A-465F-98BC-681011311618}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3BB8A7B6D2E840E4834108EE2A756B14"
-            {
-            "SourcePath" = "8:..\\PCbuild\\unicodedata.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{ECC7CEAC-A5E5-458E-BB9E-2413CC847881}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3E68AA1D22CA4D33A7DAC61CEDFC2DC6"
-            {
-            "SourcePath" = "8:..\\PCbuild\\winsound.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{28B5D777-DDF2-4B6B-B34F-31D938813856}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_62A9B66FE696406AB43F3BA120EF6C51"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_tkinter.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{4946ECAC-2E69-4BF8-A90A-F5136F5094DF}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_65496610CEEF40C69AD63A1FC3055627"
-            {
-            "SourcePath" = "8:..\\PCbuild\\pyexpat.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{D06B6426-4762-44CC-8BAD-D79052507F2F}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6B89B2DCF184494A9606B25C9A63EC93"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_testcapi.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{6901D91C-6E48-4BB7-9FEC-700C8131DF1D}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6D9B032BB42E416E907F7A4071FC18E7"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_msi.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{31FFC478-7B4A-43E8-9954-8D03E2187E9C}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7AE8B5B2BD8D45CB9C1CB893FD1012F7"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_ssl.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{C6E20F84-3247-4AD6-B051-B073268F73BA}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_8B08232CF8B44CCC816BC91E9F61BB43"
-            {
-            "SourcePath" = "8:..\\PCbuild\\select.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{18CAE28C-B454-46C1-87A0-493D91D97F03}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_93EB5F19FC7D4734B7CD99738DAE76F2"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_multiprocessing.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{9E48B300-37D1-11DD-8C41-005056C00008}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A157611844C3484298839B2121F07AF2"
-            {
-            "SourcePath" = "8:..\\PCbuild\\python.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_7A61350BD5E5490F9F49731255EAA148"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_BF6A0C3645B84E82A52B3E1C6DD3DF9B"
-            {
-            "SourcePath" = "8:..\\PCbuild\\pythonw.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_7A61350BD5E5490F9F49731255EAA148"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{F4229CC3-873C-49AE-9729-DD308ED4CD4A}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C74603B0541648EAB9DCCD336A8096D6"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_ctypes_test.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{9EC7190A-249F-4180-A900-548FDCF3055F}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D92B7A89ED3D493E90119D5EA8539992"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_hashlib.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{447F05A8-F581-4CAC-A466-5AC7936E207E}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D9A4B93552DB41839BF76966067CBD04"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_bsddb.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{B4D38F3F-68FB-42EC-A45D-E00657BB3627}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_E0EBB3D1557546F88099E712703AC2E6"
-            {
-            "SourcePath" = "8:..\\PCbuild\\bz2.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{73FCD2BD-F133-46B7-8EC1-144CD82A59D5}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F10E915E1E5B497C80FEE8B9A7E7BA13"
-            {
-            "SourcePath" = "8:..\\PCbuild\\_sqlite3.pyd"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E7CB97F476C0424AACF9DBEDE03DDCDA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{13CECB97-4119-4316-9D42-8534019A5A44}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
         }
     }
 }
