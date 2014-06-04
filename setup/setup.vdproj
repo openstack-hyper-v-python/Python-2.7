@@ -6069,12 +6069,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_589BD800A3EF496592300EAF6A09AD8F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_58ACC15040064D7D9A12D897BB2BEABA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -11296,12 +11290,6 @@
         "Entry"
         {
         "MsmKey" = "8:_9FF9CCB6B8574BF49831801F4458C667"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A037AB8BBCAA46A3A581326C5D106597"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -16582,12 +16570,6 @@
         "Entry"
         {
         "MsmKey" = "8:_EF6EF89D44564CB3B76F4B0F683C2D78"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_EF853896527148929268FCCC983808B3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -38080,26 +38062,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_589BD800A3EF496592300EAF6A09AD8F"
-            {
-            "SourcePath" = "8:Lib\\glob.pyc"
-            "TargetName" = "8:glob.pyc"
-            "Tag" = "8:"
-            "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_58ACC15040064D7D9A12D897BB2BEABA"
             {
             "SourcePath" = "8:..\\Lib\\encodings\\utf_16_le.py"
@@ -55506,26 +55468,6 @@
             "TargetName" = "8:fa.msg"
             "Tag" = "8:"
             "Folder" = "8:_0F924090327240BC83EFD8DB4542AE0B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A037AB8BBCAA46A3A581326C5D106597"
-            {
-            "SourcePath" = "8:Lib\\wsgiref.egg-info"
-            "TargetName" = "8:wsgiref.egg-info"
-            "Tag" = "8:"
-            "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -73126,26 +73068,6 @@
             "TargetName" = "8:test_basics.py"
             "Tag" = "8:"
             "Folder" = "8:_404F0F12E1A344F2854A2DE828BD4A63"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EF853896527148929268FCCC983808B3"
-            {
-            "SourcePath" = "8:Lib\\posixpath.pyc"
-            "TargetName" = "8:posixpath.pyc"
-            "Tag" = "8:"
-            "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
