@@ -38082,7 +38082,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_589BD800A3EF496592300EAF6A09AD8F"
             {
-            "SourcePath" = "8:..\\Lib\\glob.pyc"
+            "SourcePath" = "8:Lib\\glob.pyc"
             "TargetName" = "8:glob.pyc"
             "Tag" = "8:"
             "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
@@ -55522,7 +55522,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A037AB8BBCAA46A3A581326C5D106597"
             {
-            "SourcePath" = "8:..\\Lib\\wsgiref.egg-info"
+            "SourcePath" = "8:Lib\\wsgiref.egg-info"
             "TargetName" = "8:wsgiref.egg-info"
             "Tag" = "8:"
             "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
@@ -73142,7 +73142,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EF853896527148929268FCCC983808B3"
             {
-            "SourcePath" = "8:..\\Lib\\posixpath.pyc"
+            "SourcePath" = "8:Lib\\posixpath.pyc"
             "TargetName" = "8:posixpath.pyc"
             "Tag" = "8:"
             "Folder" = "8:_0B49A3AE65784C8F905904B077399568"
