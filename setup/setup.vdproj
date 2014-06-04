@@ -5241,6 +5241,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4BC6D95969F34E738C706B505FA79E7B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_4BC9633B37D5450EB6AEFFD77189FD8E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -35288,6 +35294,26 @@
             "TargetName" = "8:pycodegen.py"
             "Tag" = "8:"
             "Folder" = "8:_16426976AF5346E2BAF2291F02BBE069"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4BC6D95969F34E738C706B505FA79E7B"
+            {
+            "SourcePath" = "8:..\\PC\\pyconfig.h"
+            "TargetName" = "8:pyconfig.h"
+            "Tag" = "8:"
+            "Folder" = "8:_058260654D834BE1BA502D560CBCC1F2"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
